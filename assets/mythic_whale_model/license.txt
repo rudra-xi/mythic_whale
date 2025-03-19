@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mythic Whale - Stylized Animated model
+* source:	https://sketchfab.com/3d-models/mythic-whale-stylized-animated-model-124137f938ec4f5390ddde6dffd7c62e
+* author:	Meleagor (https://sketchfab.com/Meleagor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mythic Whale - Stylized Animated model" (https://sketchfab.com/3d-models/mythic-whale-stylized-animated-model-124137f938ec4f5390ddde6dffd7c62e) by Meleagor (https://sketchfab.com/Meleagor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,19 @@
+{
+	"name": "mythic_whale",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"start": "vite"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"dependencies": {
+		"three": "^0.174.0"
+	},
+	"devDependencies": {
+		"vite": "^6.2.2"
+	}
+}

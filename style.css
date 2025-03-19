@@ -1,0 +1,120 @@
+/* Font faces */
+@font-face {
+	font-family: ion;
+	src: url(./assets/Ichiji-One.otf);
+}
+@font-face {
+	font-family: ito;
+	src: url(./assets/Ichiji-Two.otf);
+}
+
+/* Global styles */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Root variables */
+:root {
+	--space: #d5c6e0;
+}
+
+/* HTML and body styles */
+html,
+body {
+	color: var(--space);
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	font-family: ito;
+	letter-spacing: 4px;
+}
+
+/* Anchor tag styles */
+a {
+	text-decoration: none;
+	color: var(--space);
+}
+
+/* Heading styles */
+h1 {
+	font-family: ion;
+	font-size: 3rem;
+	letter-spacing: 2px;
+}
+
+/* Layout styles */
+nav,
+main,
+footer {
+	position: absolute;
+}
+
+/* Navigation styles */
+nav {
+	top: 4%;
+	font-size: 0.6rem;
+	width: inherit;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+nav > a:hover {
+	transform: scale(1.1);
+	transition: transform 0.3s cubic-bezier(0.19, -0.16, 0.05, -0.58);
+}
+
+/* Paragraph styles */
+p {
+	font-size: small;
+	letter-spacing: 3px;
+	line-height: 20px;
+}
+
+/* Main content styles */
+main {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	top: 30%;
+	left: 50%;
+	padding-right: 50px;
+}
+
+/* Footer styles */
+footer {
+	width: inherit;
+	display: flex;
+	justify-content: space-evenly;
+	bottom: 4%;
+	font-size: 0.7rem;
+}
+
+/* Button styles */
+button {
+	color: var(--space);
+	background: transparent;
+	width: 150px;
+	padding: 10px;
+	border-radius: 122px;
+	border: 2px solid var(--space);
+	font-family: ito;
+	letter-spacing: 2px;
+	font-size: small;
+	transition: transform 0.3s cubic-bezier(0.19, -0.16, 0.05, -0.58);
+}
+button:hover {
+	transform: translateY(-10px);
+}
+
+/* Link styles */
+.links {
+	display: flex;
+	gap: 30px;
+}
+
+.links > a:hover {
+	transition: transform 0.3s cubic-bezier(0.19, -0.16, 0.05, -0.58);
+	transform: translateY(-10px);
+}
