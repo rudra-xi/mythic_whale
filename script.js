@@ -58,7 +58,7 @@ let model;
 // Load the GLTF model
 const loader = new GLTFLoader();
 loader.load(
-	"./assets/mythic_whale_model/scene.gltf",
+	"/assets/mythic_whale_model/scene.gltf",
 	function (gltf) {
 		model = gltf.scene;
 		scene.add(model);
