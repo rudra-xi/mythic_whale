@@ -4,12 +4,13 @@
 	"description": "",
 	"main": "script.js",
 	"scripts": {
-		"start": "vite"
+		"start": "vite",
+		"build": "vite build"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"type": "commonjs",
+	"type": "module",
 	"dependencies": {
 		"three": "^0.174.0"
 	},
