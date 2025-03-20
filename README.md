@@ -4,6 +4,8 @@
 
 This is a simple project where I am experimenting with Three.js to create a 3D model of a mythical whale. The project includes an interactive starfield and allows users to rotate and scale the 3D model using mouse events.
 
+![readme](https://github.com/user-attachments/assets/d8c920ad-2fcc-444a-86c5-e0200a1840ed)
+
 ## Features
 
 - **3D Model Rendering**: Utilizes Three.js to render a 3D model of the Mythic Whale.
